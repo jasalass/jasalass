@@ -58,9 +58,9 @@ Uso Ubuntu y Armbian, tanto en versiones desktop como server. Trabajo con **Oran
 
 Estoy involucrado en desarrollo web, móvil y también proyectos embebidos con microcontroladores. No descarto aplicaciones de escritorio si se ajustan al objetivo.
 
-He trabajado con **Docker Compose** y **Postman**, y uso **MQTT** para comunicación en tiempo real entre dispositivos IoT. He construido APIs REST desde cero y también he integrado servicios de terceros.
+He trabajado con **Docker Compose**, **Postman**, **MQTT** para comunicación en tiempo real entre dispositivos IoT. He construido APIs REST desde cero y también he integrado servicios de terceros.
 
-Además de programar, me apasiona la **impresión 3D** como herramienta funcional, y juego **Mitos y Leyendas**, un TCG chileno.
+Además de programar, me apasiona la **impresión 3D** como herramienta funcional y juego **Mitos y Leyendas**, un TCG chileno.
 
 ---
 
@@ -72,6 +72,7 @@ Actualmente profundizo mis conocimientos en:
 - Microservicios y buenas prácticas backend  
 - GitHub Actions y flujos CI/CD  
 - Diseño de software con enfoque social y educativo
+- React
 
 ---
 
