@@ -34,7 +34,7 @@
 
 ## 💡 Intereses y proyectos
 
-Desarrollo soluciones que conectan el mundo físico con lo digital: sensores, automatización, plataformas web, análisis de datos y hardware personalizado (¡impreso en 3D!).
+Desarrollo soluciones que conectan el mundo físico con lo digital: sensores, automatización, plataformas web, análisis de datos y hardware personalizado (impresión 3D).
 
 Me interesa participar en **proyectos sociales, educativos o con impacto comunitario**, donde la tecnología pueda mejorar la vida cotidiana de las personas o comunidades.
 
