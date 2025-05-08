@@ -7,6 +7,18 @@
 
 ---
 
+## 🧪 Demos de proyectos
+
+🔗 [Fitness App - Demo](https://github.com/jasalass/Fitness_App-_Demo)  
+App para planificación y registro de entrenamientos semanales. Registro de usuarios, temporizador por ejercicio e historial
+
+🔗 [Crowdfunding App - Demo](https://github.com/jasalass/Crowdfunding_Demo)  
+Aplicación web para campañas de financiamiento colectivo. Incluye frontend y backend con autenticación, publicación de campañas y donaciones simuladas.
+
+
+
+---
+
 ## 🏅 Certificaciones destacadas
 
 [![PCEP](https://img.shields.io/badge/PCEP-Certified-blue?logo=python&style=flat)](https://www.credly.com/badges/5ba528ba-8d27-4940-8c4a-8c45c5ffa78f/linked_in_profile)  
