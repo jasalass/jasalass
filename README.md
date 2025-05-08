@@ -41,6 +41,8 @@ Aplicación web para campañas de financiamiento colectivo. Incluye frontend y b
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)]()  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)]()  
 [![Docker (aprendiendo)](https://img.shields.io/badge/Docker-learning-2496ED?logo=docker&logoColor=white&style=flat)]()
+[![React (aprendiendo)](https://img.shields.io/badge/React-learning-61DAFB?logo=react&logoColor=black&style=flat)]()
+
 
 ---
 
