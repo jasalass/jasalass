@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Informática en **Duoc UC**  
 🧠 Desarrollador que combina **programación, IoT, robótica e impresión 3D**  
-🎵 Estudié Música en la **PUCV**  
+🎵 Estudié Música en la **Universidad Católica de Valparaíso**  
 🐧 Fan de Linux, automatización y datos con impacto en el mundo físico
 
 ---
